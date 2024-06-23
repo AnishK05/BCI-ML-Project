@@ -7,7 +7,8 @@ Various machine learning models were evaluated, including Linear Discriminant An
 This research demonstrates significant advancements in BCI technology, offering an accessible and efficient solution for individuals with severe motor impairments. Future improvements will focus on integrating wireless technology for enhanced convenience and expanding the model to accommodate a diverse range of patient cases, thereby increasing the system's robustness and accuracy. This work provides a promising step towards improving the quality of life for those affected by neuromuscular disorders by enabling greater independence and control over their environment through innovative technology.
 
 Published 21-page research paper in the Social Science Research Network (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836934
-  This research paper was awarded as **"One of the Top 10 Most Impactful Research Papers on Disability Inclusion Research in 2024"**
+
+-- This research paper was awarded as **"One of the Top 10 Most Impactful Research Papers on Disability Inclusion Research in 2024"**
 
 Group Members: Anish Kalra, Trishay Naman
 
