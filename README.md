@@ -12,4 +12,4 @@ Published 21-page research paper in the Social Science Research Network (SSRN): 
 
 Group Members: Anish Kalra, Trishay Naman
 
-Note: Raspberry Pi scripts (which were used for deep learning model integration with raspberry pi imaging device) are not available in this repo
+Note: Raspberry Pi scripts (which were used for deep learning model integration with Raspberry Pi imaging device) are not available in this repo
