@@ -9,6 +9,7 @@ This research demonstrates significant advancements in BCI technology, offering 
 Published 21-page research paper in the Social Science Research Network (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4836934
 
 -- This research paper was awarded as **"One of the Top 10 Most Impactful Research Papers on Disability Inclusion Research in 2024"**
+
 -- This research paper was awarded as **"One of the Top 10 Most Impactful Research Papers on Human Computer Interaction in 2024"**
 
 Group Members: Anish Kalra, Trishay Naman
