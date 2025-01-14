@@ -2,7 +2,7 @@ Research Summary:
 
 Check out our video demonstration [here](https://drive.google.com/file/d/1fQFq9-apAhN5-mCExt-DYWQ3ujR6EaNY/view?usp=sharing)!
 
-Read the full paper [here](BCI-ML-Project/Research-Paper-BCI.pdf)
+Read the full paper [here](Research-Paper-BCI.pdf)
 
 This research paper presents a novel approach to assisting individuals with neuromuscular disorders and paralysis through an innovative Brain-Computer Interface (BCI) system. The study aims to develop a cost-effective, non-invasive solution that enables patients to control home appliances using brain signals associated with inner speech (thought-based commands, almost like mind control!).
 
